@@ -1,2 +1,2 @@
-# first-react-app-start
+# react-study
 Created with CodeSandbox
